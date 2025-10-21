@@ -1,4 +1,3 @@
-// Zadanie 5
 function fibIter(n) {
   let a = 0,
     b = 1;

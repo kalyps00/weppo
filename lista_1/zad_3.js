@@ -1,4 +1,3 @@
-// Zadanie 3
 function isPrime(n) {
   if (n < 2) return false;
   for (let i = 2; i < n; i++) {
